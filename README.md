@@ -18,6 +18,8 @@ The **ProductStore** project is a web application that allows users to add and e
 - **MongoDB**: Database to store product information.
 - **Mongoose**: ODM for MongoDB to interact with the database.
 - **dotenv**: To manage environment variables.
+- **React**: For the frontend application.
+- **Chakra UI**: Frontend Components.
 
 ## Getting Started
 
